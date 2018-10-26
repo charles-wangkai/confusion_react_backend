@@ -1,0 +1,7 @@
+{
+    "name": "confusion_react_backend",
+    "version": "1.0.0",
+    "dependencies": {
+        "json-server": "^0.14.0"
+    }
+}

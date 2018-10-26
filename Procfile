@@ -1,0 +1,1 @@
+web: json-server -w db.json -d 2000 -H 0.0.0.0 -p $PORT
